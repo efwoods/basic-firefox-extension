@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "My Fast Firefox Extension",
+  "version": "1.0",
+  "description": "A quick-start Firefox extension.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [],
+  "icons": {
+    "48": "icon.png"
+  }
+}
